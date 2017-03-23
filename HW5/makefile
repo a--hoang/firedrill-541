@@ -5,4 +5,4 @@ matrix.o: Matrix.h Matrix.cpp
 	g++ -c Matrix.cpp
 
 clean:
-	rm *.o
+	rm *.o hw5
